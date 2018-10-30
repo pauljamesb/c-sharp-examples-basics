@@ -36,3 +36,12 @@ class NormalMem : Member
         Console.WriteLine("Remarks = {0}", remarks);
     }
 }
+
+
+
+///   The main entry point for the application
+public static void Main(string[] args)
+{
+    NormalMem myChildMember = new NormalMem("Special Rate", "Name here", 1, 2010);
+}
+
