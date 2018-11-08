@@ -5,3 +5,5 @@
 // https://docs.microsoft.com/en-us/dotnet/api/system.enum?view=netframework-4.7.2
 
 // https://docs.microsoft.com/en-us/dotnet/api/system.timespan?view=netframework-4.7.2
+
+// https://www.c-sharpcorner.com/article/how-to-debug-an-alexa-net-core-skill/
