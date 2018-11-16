@@ -1,3 +1,5 @@
+// https://stackoverflow.com/questions/1209359/when-to-use-properties-and-methods
+
 using System;
 					
 public class Program
